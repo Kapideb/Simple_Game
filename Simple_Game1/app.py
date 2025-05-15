@@ -1,6 +1,5 @@
 
 import random
-from idlelib.pyshell import restart_line
 import time
 
 
